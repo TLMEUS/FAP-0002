@@ -1,8 +1,8 @@
-# fap_0002
+# FAP-0002
 
 My Phoenix POS System Firebase Configuration Application
 
-## Getting Started
+## Initial Release
 
 This is the Phoenix POS Firebase Configuration Application. In
 the initial version, no error checking, although the basic
